@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wanddesigns – Elbisch-kalligrafischer Stil</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #0a0a0a; color: #e9e6dc;
+         font-family: Georgia, "Times New Roman", serif; }
+  header { padding: 48px 24px 24px; text-align: center; }
+  h1 { font-weight: 400; letter-spacing: 6px; font-size: clamp(22px, 4vw, 40px); margin: 0 0 12px; }
+  header p { color: #b9c7d6; opacity: .8; max-width: 720px; margin: 0 auto; line-height: 1.6; }
+  .grid { display: grid; gap: 28px; padding: 32px clamp(16px, 4vw, 48px) 64px;
+          grid-template-columns: repeat(auto-fill, minmax(min(100%, 460px), 1fr)); }
+  figure { margin: 0; border: 1px solid #2a2a2a; border-radius: 10px; overflow: hidden;
+           background: #0a0a0a; }
+  figure img { display: block; width: 100%; height: auto; }
+  figcaption { display: flex; justify-content: space-between; align-items: center;
+               padding: 12px 16px; color: #b9c7d6; letter-spacing: 2px; font-size: 15px; }
+  figcaption a { color: #c8a24a; text-decoration: none; }
+  footer { text-align: center; padding: 24px; color: #6a6a6a; font-size: 14px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>WANDDESIGNS</h1>
+  <p>10 originale Ziermuster im elbisch-kalligrafischen Stil – helle, fließende Linien
+     auf schwarzem Grund. Vektorformat (SVG): verlustfrei skalierbar zum Nachzeichnen,
+     Projizieren oder Drucken in beliebiger Größe.</p>
+</header>
+<div class="grid" id="grid"></div>
+<footer>SVG öffnen &rarr; im Browser beliebig zoomen · zum Übertragen auf die Wand ausdrucken oder projizieren</footer>
+<script>
+  const grid = document.getElementById('grid');
+  const names = ["Schriftbänder","Inschrift-Ring","Ranken-Bordüre","Lebensbaum",
+                 "Eckornamente","Flächenmuster","Torbogen","Sternenkarte",
+                 "Flechtband","Zentral-Emblem"];
+  for (let i = 1; i <= 10; i++) {
+    const n = String(i).padStart(2, '0');
+    const file = `svg/wanddesign-${n}.svg`;
+    const fig = document.createElement('figure');
+    fig.innerHTML = `<img src="${file}" alt="Wanddesign ${n} – ${names[i-1]}" loading="lazy">
+      <figcaption><span>${n} · ${names[i-1]}</span><a href="${file}" target="_blank">SVG öffnen ↗</a></figcaption>`;
+    grid.appendChild(fig);
+  }
+</script>
+</body>
+</html>

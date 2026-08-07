@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <title>Wanddesign 03 – Ranken-Bordüre</title>
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      path, line, circle { fill: none; }
+      path { stroke: #e9e6dc; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { stroke: #b9c7d6; stroke-width: 2; }
+      .baseline { stroke: #b9c7d6; stroke-width: 1.2; opacity: 0.5; }
+      .dot { fill: #c8a24a; stroke: none; }
+      .leaf { stroke: #e9e6dc; stroke-width: 2.2; }
+      .frame { stroke: #c8a24a; stroke-width: 2; opacity: 0.7; }
+      .label { fill: #b9c7d6; font-family: Georgia, 'Times New Roman', serif;
+                font-size: 22px; letter-spacing: 4px; opacity: 0.65; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="1000"/>
+  <rect class="frame" x="40" y="40" width="1520" height="920" rx="6"/>
+  <text class="label" x="800.0" y="942" text-anchor="middle">III · RANKEN-BORDUERE</text>
+<path d="M 220.0 857.0 Q 220.8 834.0 222.2 811.1 Q 223.9 788.1 225.4 765.2 Q 226.4 742.2 226.6 719.2 Q 226.0 696.2 224.7 673.2 Q 223.1 650.3 221.5 627.3 Q 220.4 604.4 219.9 581.4 Q 220.3 558.4 221.3 535.4 Q 222.9 512.5 224.5 489.5 Q 225.9 466.6 226.6 443.6 Q 226.4 420.6 225.5 397.6 Q 224.1 374.6 222.4 351.7 Q 221.0 328.7 220.1 305.8 Q 220.0 282.8 220.7 259.8 Q 222.0 236.8 223.6 213.9 Q 225.2 190.9 226.3 167.9 Q 226.6 144.9 226.1 121.9 " />
+<path d="M 222.2 811.1 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="263.6" cy="801.9" r="2.8" class="dot"/>
+<path d="M 226.4 742.2 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="185.0" cy="733.0" r="2.8" class="dot"/>
+<path d="M 224.7 673.2 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="266.1" cy="664.0" r="2.8" class="dot"/>
+<path d="M 220.4 604.4 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="179.0" cy="595.2" r="2.8" class="dot"/>
+<path d="M 221.3 535.4 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="262.7" cy="526.2" r="2.8" class="dot"/>
+<path d="M 225.9 466.6 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="184.5" cy="457.4" r="2.8" class="dot"/>
+<path d="M 225.5 397.6 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="266.9" cy="388.4" r="2.8" class="dot"/>
+<path d="M 221.0 328.7 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="179.6" cy="319.5" r="2.8" class="dot"/>
+<path d="M 220.7 259.8 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="262.1" cy="250.6" r="2.8" class="dot"/>
+<path d="M 225.2 190.9 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="183.8" cy="181.7" r="2.8" class="dot"/>
+<path d="M 1380.0 857.0 Q 1380.8 834.0 1382.2 811.1 Q 1383.9 788.1 1385.4 765.2 Q 1386.4 742.2 1386.6 719.2 Q 1386.0 696.2 1384.7 673.2 Q 1383.1 650.3 1381.5 627.3 Q 1380.4 604.4 1379.9 581.4 Q 1380.3 558.4 1381.3 535.4 Q 1382.9 512.5 1384.5 489.5 Q 1385.9 466.6 1386.6 443.6 Q 1386.4 420.6 1385.5 397.6 Q 1384.1 374.6 1382.4 351.7 Q 1381.0 328.7 1380.1 305.8 Q 1380.0 282.8 1380.7 259.8 Q 1382.0 236.8 1383.6 213.9 Q 1385.2 190.9 1386.3 167.9 Q 1386.6 144.9 1386.1 121.9 " />
+<path d="M 1382.2 811.1 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="1423.6" cy="801.9" r="2.8" class="dot"/>
+<path d="M 1386.4 742.2 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="1345.0" cy="733.0" r="2.8" class="dot"/>
+<path d="M 1384.7 673.2 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="1426.1" cy="664.0" r="2.8" class="dot"/>
+<path d="M 1380.4 604.4 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="1339.0" cy="595.2" r="2.8" class="dot"/>
+<path d="M 1381.3 535.4 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="1422.7" cy="526.2" r="2.8" class="dot"/>
+<path d="M 1385.9 466.6 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="1344.5" cy="457.4" r="2.8" class="dot"/>
+<path d="M 1385.5 397.6 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="1426.9" cy="388.4" r="2.8" class="dot"/>
+<path d="M 1381.0 328.7 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="1339.6" cy="319.5" r="2.8" class="dot"/>
+<path d="M 1380.7 259.8 q 32.2 -27.6 41.4 4.6 q -18.4 13.8 -41.4 -4.6 z" class="leaf"/>
+<circle cx="1422.1" cy="250.6" r="2.8" class="dot"/>
+<path d="M 1385.2 190.9 q -32.2 -27.6 -41.4 4.6 q 18.4 13.8 41.4 -4.6 z" class="leaf"/>
+<circle cx="1343.8" cy="181.7" r="2.8" class="dot"/>
+<line x1="360.0" y1="500.0" x2="1240.0" y2="500.0" class="baseline"/>
+<path d="M 381.6 500.5 c 27.0 27.0 -27.0 32.4 0 59.4 c 21.6 16.2 37.8 -5.4 27.0 -21.6" />
+<circle cx="381.6" cy="562.6" r="2.7" class="dot"/>
+<path d="M 436.5 500.1 q 24.3 -43.2 48.6 0 q 24.3 43.2 48.6 0" />
+<circle cx="460.8" cy="466.6" r="2.4" class="dot"/>
+<circle cx="509.4" cy="466.6" r="2.4" class="dot"/>
+<path d="M 497.9 497.6 q 27.0 -10.8 27.0 -27.0 a 15.1 15.1 0 1 1 0.1 0" />
+<circle cx="524.9" cy="470.6" r="2.7" class="dot"/>
+<path d="M 546.6 500.0 c 0 48.6 5.4 59.4 27.0 59.4 c 21.6 0 27.0 -21.6 5.4 -29.7" />
+<path d="M 596.0 496.8 c 0 -48.6 5.4 -59.4 27.0 -59.4 c 21.6 0 27.0 21.6 5.4 29.7" />
+<path d="M 658.3 497.3 c 27.0 27.0 -27.0 32.4 0 59.4 c 21.6 16.2 37.8 -5.4 27.0 -21.6" />
+<circle cx="658.3" cy="559.4" r="2.7" class="dot"/>
+<path d="M 710.8 496.4 q 24.3 -43.2 48.6 0 q 24.3 43.2 48.6 0" />
+<circle cx="735.1" cy="462.9" r="2.4" class="dot"/>
+<circle cx="783.7" cy="462.9" r="2.4" class="dot"/>
+<path d="M 759.1 496.7 c 10.8 48.6 48.6 48.6 48.6 5.4 c 0 -27.0 -37.8 -21.6 -18.9 18.9" />
+<circle cx="807.7" cy="526.4" r="2.7" class="dot"/>
+<path d="M 818.9 499.8 c 27.0 27.0 -27.0 32.4 0 59.4 c 21.6 16.2 37.8 -5.4 27.0 -21.6" />
+<circle cx="818.9" cy="561.9" r="2.7" class="dot"/>
+<path d="M 881.2 497.6 q 24.3 43.2 48.6 0 q 24.3 -43.2 48.6 0" />
+<circle cx="905.5" cy="531.1" r="2.4" class="dot"/>
+<circle cx="954.1" cy="531.1" r="2.4" class="dot"/>
+<path d="M 939.3 497.8 q 24.3 -43.2 48.6 0 q 24.3 43.2 48.6 0" />
+<circle cx="963.6" cy="464.3" r="2.4" class="dot"/>
+<circle cx="1012.2" cy="464.3" r="2.4" class="dot"/>
+<path d="M 1002.2 497.4 q 24.3 -43.2 48.6 0 q 24.3 43.2 48.6 0" />
+<circle cx="1026.5" cy="463.9" r="2.4" class="dot"/>
+<circle cx="1075.1" cy="463.9" r="2.4" class="dot"/>
+<path d="M 1053.2 503.3 c 10.8 -48.6 48.6 -48.6 48.6 -5.4 c 0 27.0 -37.8 21.6 -18.9 -18.9" />
+<circle cx="1101.8" cy="473.6" r="2.7" class="dot"/>
+<path d="M 1101.2 500.4 q 27.0 10.8 27.0 27.0 a 15.1 15.1 0 1 0 0.1 0" />
+<circle cx="1128.2" cy="527.4" r="2.7" class="dot"/>
+<path d="M 1165.2 496.6 q 24.3 -43.2 48.6 0 q 24.3 43.2 48.6 0" />
+<circle cx="1189.5" cy="463.1" r="2.4" class="dot"/>
+<circle cx="1238.1" cy="463.1" r="2.4" class="dot"/>
+</svg>

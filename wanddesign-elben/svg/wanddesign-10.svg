@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" width="1600" height="1000">
+  <title>Wanddesign 10 – Zentral-Emblem</title>
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      path, line, circle { fill: none; }
+      path { stroke: #e9e6dc; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+      .thin { stroke: #b9c7d6; stroke-width: 2; }
+      .baseline { stroke: #b9c7d6; stroke-width: 1.2; opacity: 0.5; }
+      .dot { fill: #c8a24a; stroke: none; }
+      .leaf { stroke: #e9e6dc; stroke-width: 2.2; }
+      .frame { stroke: #c8a24a; stroke-width: 2; opacity: 0.7; }
+      .label { fill: #b9c7d6; font-family: Georgia, 'Times New Roman', serif;
+                font-size: 22px; letter-spacing: 4px; opacity: 0.65; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1600" height="1000"/>
+  <rect class="frame" x="40" y="40" width="1520" height="920" rx="6"/>
+  <text class="label" x="800.0" y="942" text-anchor="middle">X · ZENTRAL-EMBLEM</text>
+<circle cx="800.0" cy="490.0" r="320.0" class="baseline"/>
+<path d="M 1120.0 490.0 q 16.8 10.8 0.0 21.6" transform="translate(0,0)"/>
+<circle cx="1146.4" cy="490.0" r="1.2" class="dot"/>
+<path d="M 1118.5 521.4 q -17.8 9.1 -2.1 21.5" transform="translate(0,0)"/>
+<path d="M 1113.9 552.4 q 14.4 13.9 -4.2 21.2" transform="translate(0,0)"/>
+<path d="M 1106.2 582.9 q -19.2 5.5 -6.3 20.7" transform="translate(0,0)"/>
+<circle cx="1081.0" cy="575.2" r="1.2" class="dot"/>
+<path d="M 1095.6 612.5 q 11.4 16.4 -8.3 20.0" transform="translate(0,0)"/>
+<path d="M 1082.2 640.8 q 9.7 17.4 -10.2 19.0" transform="translate(0,0)"/>
+<path d="M 1066.1 667.8 q 8.0 18.3 -12.0 18.0" transform="translate(0,0)"/>
+<circle cx="1088.0" cy="682.4" r="1.2" class="dot"/>
+<path d="M 1047.4 693.0 q 6.1 19.0 -13.7 16.7" transform="translate(0,0)"/>
+<path d="M 1026.3 716.3 q -19.5 -4.2 -15.3 15.3" transform="translate(0,0)"/>
+<path d="M 1003.0 737.4 q 2.3 19.8 -16.7 13.7" transform="translate(0,0)"/>
+<circle cx="1019.8" cy="757.8" r="1.2" class="dot"/>
+<path d="M 977.8 756.1 q -18.3 -8.0 -18.0 12.0" transform="translate(0,0)"/>
+<path d="M 950.8 772.2 q -17.4 -9.7 -19.0 10.2" transform="translate(0,0)"/>
+<path d="M 922.5 785.6 q -16.4 -11.4 -20.0 8.3" transform="translate(0,0)"/>
+<circle cx="912.4" cy="761.3" r="1.2" class="dot"/>
+<path d="M 892.9 796.2 q -5.5 19.2 -20.7 6.3" transform="translate(0,0)"/>
+<path d="M 862.4 803.9 q -13.9 -14.4 -21.2 4.2" transform="translate(0,0)"/>
+<path d="M 831.4 808.5 q -9.1 17.8 -21.5 2.1" transform="translate(0,0)"/>
+<circle cx="834.0" cy="834.7" r="1.2" class="dot"/>
+<path d="M 800.0 810.0 q -10.8 -16.8 -21.6 0.0" transform="translate(0,0)"/>
+<path d="M 768.6 808.5 q -9.1 -17.8 -21.5 -2.1" transform="translate(0,0)"/>
+<path d="M 737.6 803.9 q -13.9 14.4 -21.2 -4.2" transform="translate(0,0)"/>
+<circle cx="732.4" cy="829.7" r="1.2" class="dot"/>
+<path d="M 707.1 796.2 q -5.5 -19.2 -20.7 -6.3" transform="translate(0,0)"/>
+<path d="M 677.5 785.6 q -16.4 11.4 -20.0 -8.3" transform="translate(0,0)"/>
+<path d="M 649.2 772.2 q -1.6 -19.9 -19.0 -10.2" transform="translate(0,0)"/>
+<circle cx="661.6" cy="748.9" r="1.2" class="dot"/>
+<path d="M 622.2 756.1 q 0.4 -20.0 -18.0 -12.0" transform="translate(0,0)"/>
+<path d="M 597.0 737.4 q 2.3 -19.8 -16.7 -13.7" transform="translate(0,0)"/>
+<path d="M 573.7 716.3 q -19.5 4.2 -15.3 -15.3" transform="translate(0,0)"/>
+<circle cx="555.1" cy="734.9" r="1.2" class="dot"/>
+<path d="M 552.6 693.0 q 6.1 -19.0 -13.7 -16.7" transform="translate(0,0)"/>
+<path d="M 533.9 667.8 q 8.0 -18.3 -12.0 -18.0" transform="translate(0,0)"/>
+<path d="M 517.8 640.8 q 9.7 -17.4 -10.2 -19.0" transform="translate(0,0)"/>
+<circle cx="541.1" cy="628.4" r="1.2" class="dot"/>
+<path d="M 504.4 612.5 q 11.4 -16.4 -8.3 -20.0" transform="translate(0,0)"/>
+<path d="M 493.8 582.9 q -19.2 -5.5 -6.3 -20.7" transform="translate(0,0)"/>
+<path d="M 486.1 552.4 q 14.4 -13.9 -4.2 -21.2" transform="translate(0,0)"/>
+<circle cx="512.0" cy="547.3" r="1.2" class="dot"/>
+<path d="M 481.5 521.4 q 15.7 -12.4 -2.1 -21.5" transform="translate(0,0)"/>
+<path d="M 480.0 490.0 q -16.8 -10.8 0.0 -21.6" transform="translate(0,0)"/>
+<path d="M 481.5 458.6 q -15.7 -12.4 2.1 -21.5" transform="translate(0,0)"/>
+<circle cx="455.3" cy="456.0" r="1.2" class="dot"/>
+<path d="M 486.1 427.6 q -14.4 -13.9 4.2 -21.2" transform="translate(0,0)"/>
+<path d="M 493.8 397.1 q -12.9 -15.2 6.3 -20.7" transform="translate(0,0)"/>
+<path d="M 504.4 367.5 q -11.4 -16.4 8.3 -20.0" transform="translate(0,0)"/>
+<circle cx="480.0" cy="357.4" r="1.2" class="dot"/>
+<path d="M 517.8 339.2 q 19.9 -1.6 10.2 -19.0" transform="translate(0,0)"/>
+<path d="M 533.9 312.2 q -8.0 -18.3 12.0 -18.0" transform="translate(0,0)"/>
+<path d="M 552.6 287.0 q 19.8 2.3 13.7 -16.7" transform="translate(0,0)"/>
+<circle cx="573.0" cy="303.7" r="1.2" class="dot"/>
+<path d="M 573.7 263.7 q 19.5 4.2 15.3 -15.3" transform="translate(0,0)"/>
+<path d="M 597.0 242.6 q 19.0 6.1 16.7 -13.7" transform="translate(0,0)"/>
+<path d="M 622.2 223.9 q -0.4 -20.0 18.0 -12.0" transform="translate(0,0)"/>
+<circle cx="607.6" cy="202.0" r="1.2" class="dot"/>
+<path d="M 649.2 207.8 q 17.4 9.7 19.0 -10.2" transform="translate(0,0)"/>
+<path d="M 677.5 194.4 q 3.5 -19.7 20.0 -8.3" transform="translate(0,0)"/>
+<path d="M 707.1 183.8 q 5.5 -19.2 20.7 -6.3" transform="translate(0,0)"/>
+<circle cx="699.4" cy="158.5" r="1.2" class="dot"/>
+<path d="M 737.6 176.1 q 7.3 -18.6 21.2 -4.2" transform="translate(0,0)"/>
+<path d="M 768.6 171.5 q 9.1 -17.8 21.5 -2.1" transform="translate(0,0)"/>
+<path d="M 800.0 170.0 q 10.8 -16.8 21.6 0.0" transform="translate(0,0)"/>
+<circle cx="800.0" cy="143.6" r="1.2" class="dot"/>
+<path d="M 831.4 171.5 q 9.1 17.8 21.5 2.1" transform="translate(0,0)"/>
+<path d="M 862.4 176.1 q 7.3 18.6 21.2 4.2" transform="translate(0,0)"/>
+<path d="M 892.9 183.8 q 15.2 -12.9 20.7 6.3" transform="translate(0,0)"/>
+<circle cx="900.6" cy="158.5" r="1.2" class="dot"/>
+<path d="M 922.5 194.4 q 3.5 19.7 20.0 8.3" transform="translate(0,0)"/>
+<path d="M 950.8 207.8 q 17.4 -9.7 19.0 10.2" transform="translate(0,0)"/>
+<path d="M 977.8 223.9 q 18.3 -8.0 18.0 12.0" transform="translate(0,0)"/>
+<circle cx="992.4" cy="202.0" r="1.2" class="dot"/>
+<path d="M 1003.0 242.6 q -2.3 19.8 16.7 13.7" transform="translate(0,0)"/>
+<path d="M 1026.3 263.7 q 19.5 -4.2 15.3 15.3" transform="translate(0,0)"/>
+<path d="M 1047.4 287.0 q -6.1 19.0 13.7 16.7" transform="translate(0,0)"/>
+<circle cx="1027.0" cy="303.7" r="1.2" class="dot"/>
+<path d="M 1066.1 312.2 q 20.0 -0.4 12.0 18.0" transform="translate(0,0)"/>
+<path d="M 1082.2 339.2 q 19.9 1.6 10.2 19.0" transform="translate(0,0)"/>
+<path d="M 1095.6 367.5 q 19.7 3.5 8.3 20.0" transform="translate(0,0)"/>
+<circle cx="1120.0" cy="357.4" r="1.2" class="dot"/>
+<path d="M 1106.2 397.1 q -12.9 15.2 6.3 20.7" transform="translate(0,0)"/>
+<path d="M 1113.9 427.6 q 18.6 7.3 4.2 21.2" transform="translate(0,0)"/>
+<path d="M 1118.5 458.6 q 17.8 9.1 2.1 21.5" transform="translate(0,0)"/>
+<circle cx="1144.7" cy="456.0" r="1.2" class="dot"/>
+<circle cx="800.0" cy="490.0" r="267.2" class="baseline"/>
+<path d="M 1067.2 490.0 q 16.8 10.8 0.0 21.6" transform="translate(0,0)"/>
+<circle cx="1093.6" cy="490.0" r="1.2" class="dot"/>
+<path d="M 1065.3 521.6 q -18.0 8.7 -2.6 21.4" transform="translate(0,0)"/>
+<path d="M 1059.7 552.8 q -18.9 6.6 -5.1 21.0" transform="translate(0,0)"/>
+<path d="M 1050.5 583.0 q -19.5 4.3 -7.5 20.2" transform="translate(0,0)"/>
+<circle cx="1025.7" cy="573.8" r="1.2" class="dot"/>
+<path d="M 1037.7 612.0 q -19.9 1.9 -9.9 19.2" transform="translate(0,0)"/>
+<path d="M 1021.6 639.3 q -20.0 -0.4 -12.1 17.9" transform="translate(0,0)"/>
+<path d="M 1002.4 664.4 q -19.8 -2.8 -14.1 16.4" transform="translate(0,0)"/>
+<circle cx="982.4" cy="647.2" r="1.2" class="dot"/>
+<path d="M 980.4 687.1 q 3.4 19.7 -15.9 14.6" transform="translate(0,0)"/>
+<path d="M 955.8 707.1 q -18.6 -7.4 -17.5 12.6" transform="translate(0,0)"/>
+<path d="M 929.0 724.0 q -1.3 19.9 -18.9 10.4" transform="translate(0,0)"/>
+<circle cx="941.7" cy="747.1" r="1.2" class="dot"/>
+<path d="M 900.4 737.6 q -3.7 19.6 -20.0 8.1" transform="translate(0,0)"/>
+<path d="M 870.4 747.8 q -14.8 -13.4 -20.8 5.7" transform="translate(0,0)"/>
+<path d="M 839.5 754.3 q -13.2 -15.0 -21.4 3.2" transform="translate(0,0)"/>
+<circle cx="835.6" cy="728.2" r="1.2" class="dot"/>
+<path d="M 807.9 757.1 q -10.3 17.1 -21.6 0.6" transform="translate(0,0)"/>
+<path d="M 776.3 756.1 q -12.2 15.8 -21.5 -1.9" transform="translate(0,0)"/>
+<path d="M 745.0 751.5 q -7.1 -18.7 -21.1 -4.4" transform="translate(0,0)"/>
+<circle cx="750.4" cy="725.6" r="1.2" class="dot"/>
+<path d="M 714.4 743.1 q -15.6 12.5 -20.5 -6.9" transform="translate(0,0)"/>
+<path d="M 685.1 731.2 q -2.5 -19.8 -19.5 -9.3" transform="translate(0,0)"/>
+<path d="M 657.4 715.9 q -18.1 8.4 -18.3 -11.5" transform="translate(0,0)"/>
+<circle cx="643.3" cy="738.3" r="1.2" class="dot"/>
+<path d="M 631.6 697.5 q 2.2 -19.9 -16.8 -13.6" transform="translate(0,0)"/>
+<path d="M 608.3 676.1 q 4.5 -19.5 -15.0 -15.5" transform="translate(0,0)"/>
+<path d="M 587.6 652.1 q -19.9 1.6 -13.1 -17.2" transform="translate(0,0)"/>
+<circle cx="566.6" cy="668.2" r="1.2" class="dot"/>
+<path d="M 569.9 625.9 q -20.0 -0.8 -11.0 -18.6" transform="translate(0,0)"/>
+<path d="M 555.5 597.7 q 11.0 -16.7 -8.7 -19.8" transform="translate(0,0)"/>
+<path d="M 544.4 568.0 q -19.2 -5.4 -6.3 -20.7" transform="translate(0,0)"/>
+<circle cx="519.2" cy="575.7" r="1.2" class="dot"/>
+<path d="M 537.0 537.3 q 14.6 -13.6 -3.8 -21.3" transform="translate(0,0)"/>
+<path d="M 533.3 505.8 q 16.1 -11.8 -1.3 -21.6" transform="translate(0,0)"/>
+<path d="M 533.3 474.2 q -16.1 -11.8 1.3 -21.6" transform="translate(0,0)"/>
+<circle cx="506.9" cy="472.6" r="1.2" class="dot"/>
+<path d="M 537.0 442.7 q 18.4 -7.7 3.8 -21.3" transform="translate(0,0)"/>
+<path d="M 544.4 412.0 q 19.2 -5.4 6.3 -20.7" transform="translate(0,0)"/>
+<path d="M 555.5 382.3 q 19.7 -3.1 8.7 -19.8" transform="translate(0,0)"/>
+<circle cx="579.6" cy="392.9" r="1.2" class="dot"/>
+<path d="M 569.9 354.1 q 20.0 -0.8 11.0 -18.6" transform="translate(0,0)"/>
+<path d="M 587.6 327.9 q 19.9 1.6 13.1 -17.2" transform="translate(0,0)"/>
+<path d="M 608.3 303.9 q -4.5 -19.5 15.0 -15.5" transform="translate(0,0)"/>
+<circle cx="589.3" cy="285.5" r="1.2" class="dot"/>
+<path d="M 631.6 282.5 q 19.0 6.2 16.8 -13.6" transform="translate(0,0)"/>
+<path d="M 657.4 264.1 q 18.1 8.4 18.3 -11.5" transform="translate(0,0)"/>
+<path d="M 685.1 248.8 q 2.5 -19.8 19.5 -9.3" transform="translate(0,0)"/>
+<circle cx="673.7" cy="224.9" r="1.2" class="dot"/>
+<path d="M 714.4 236.9 q 15.6 12.5 20.5 -6.9" transform="translate(0,0)"/>
+<path d="M 745.0 228.5 q 14.0 14.2 21.1 -4.4" transform="translate(0,0)"/>
+<path d="M 776.3 223.9 q 12.2 15.8 21.5 -1.9" transform="translate(0,0)"/>
+<circle cx="778.6" cy="250.2" r="1.2" class="dot"/>
+<path d="M 807.9 222.9 q 10.3 17.1 21.6 0.6" transform="translate(0,0)"/>
+<path d="M 839.5 225.7 q 13.2 -15.0 21.4 3.2" transform="translate(0,0)"/>
+<path d="M 870.4 232.2 q 14.8 -13.4 20.8 5.7" transform="translate(0,0)"/>
+<circle cx="877.4" cy="206.8" r="1.2" class="dot"/>
+<path d="M 900.4 242.4 q 16.3 -11.5 20.0 8.1" transform="translate(0,0)"/>
+<path d="M 929.0 256.0 q 17.6 -9.5 18.9 10.4" transform="translate(0,0)"/>
+<path d="M 955.8 272.9 q 18.6 -7.4 17.5 12.6" transform="translate(0,0)"/>
+<circle cx="971.2" cy="251.5" r="1.2" class="dot"/>
+<path d="M 980.4 292.9 q 19.3 -5.1 15.9 14.6" transform="translate(0,0)"/>
+<path d="M 1002.4 315.6 q 19.8 -2.8 14.1 16.4" transform="translate(0,0)"/>
+<path d="M 1021.6 340.7 q 20.0 -0.4 12.1 17.9" transform="translate(0,0)"/>
+<circle cx="1043.5" cy="326.0" r="1.2" class="dot"/>
+<path d="M 1037.7 368.0 q -10.0 17.3 9.9 19.2" transform="translate(0,0)"/>
+<path d="M 1050.5 397.0 q -12.0 16.0 7.5 20.2" transform="translate(0,0)"/>
+<path d="M 1059.7 427.2 q 18.9 6.6 5.1 21.0" transform="translate(0,0)"/>
+<circle cx="1085.4" cy="421.0" r="1.2" class="dot"/>
+<path d="M 1065.3 458.4 q -15.4 12.7 2.6 21.4" transform="translate(0,0)"/>
+<circle cx="800.0" cy="490.0" r="214.4" class="baseline"/>
+<path d="M 1014.4 490.0 q -16.8 10.8 0.0 21.6" transform="translate(0,0)"/>
+<circle cx="988.0" cy="490.0" r="1.2" class="dot"/>
+<path d="M 1012.1 521.2 q -18.2 8.2 -3.1 21.4" transform="translate(0,0)"/>
+<path d="M 1005.3 551.8 q 13.0 15.2 -6.2 20.7" transform="translate(0,0)"/>
+<path d="M 994.1 581.0 q -19.8 2.6 -9.2 19.6" transform="translate(0,0)"/>
+<circle cx="970.2" cy="569.8" r="1.2" class="dot"/>
+<path d="M 978.8 608.3 q -20.0 -0.3 -11.9 18.0" transform="translate(0,0)"/>
+<path d="M 959.7 633.1 q 5.3 19.3 -14.4 16.1" transform="translate(0,0)"/>
+<path d="M 937.1 654.8 q 2.4 19.8 -16.6 13.8" transform="translate(0,0)"/>
+<circle cx="954.0" cy="675.1" r="1.2" class="dot"/>
+<path d="M 911.7 673.0 q -0.5 20.0 -18.4 11.3" transform="translate(0,0)"/>
+<path d="M 883.9 687.3 q -16.5 -11.2 -19.9 8.4" transform="translate(0,0)"/>
+<path d="M 854.2 697.4 q -6.2 19.0 -20.9 5.5" transform="translate(0,0)"/>
+<circle cx="860.9" cy="723.0" r="1.2" class="dot"/>
+<path d="M 823.4 703.1 q -8.9 17.9 -21.5 2.4" transform="translate(0,0)"/>
+<path d="M 792.2 704.3 q -11.4 16.4 -21.6 -0.8" transform="translate(0,0)"/>
+<path d="M 761.1 700.8 q -7.6 -18.5 -21.2 -3.9" transform="translate(0,0)"/>
+<circle cx="765.9" cy="674.9" r="1.2" class="dot"/>
+<path d="M 730.8 692.9 q -15.6 12.4 -20.4 -7.0" transform="translate(0,0)"/>
+<path d="M 702.0 680.7 q -1.9 -19.9 -19.2 -9.9" transform="translate(0,0)"/>
+<path d="M 675.2 664.4 q 1.0 -19.9 -17.6 -12.6" transform="translate(0,0)"/>
+<circle cx="690.6" cy="642.9" r="1.2" class="dot"/>
+<path d="M 651.2 644.3 q 3.9 -19.6 -15.5 -15.0" transform="translate(0,0)"/>
+<path d="M 630.3 621.0 q 6.7 -18.8 -13.2 -17.1" transform="translate(0,0)"/>
+<path d="M 613.0 594.9 q 9.4 -17.6 -10.6 -18.8" transform="translate(0,0)"/>
+<circle cx="636.1" cy="582.0" r="1.2" class="dot"/>
+<path d="M 599.7 566.6 q 11.8 -16.1 -7.7 -20.2" transform="translate(0,0)"/>
+<path d="M 590.7 536.6 q 14.0 -14.2 -4.7 -21.1" transform="translate(0,0)"/>
+<path d="M 586.2 505.7 q 16.0 -12.0 -1.6 -21.5" transform="translate(0,0)"/>
+<circle cx="612.5" cy="503.7" r="1.2" class="dot"/>
+<path d="M 586.2 474.3 q -16.0 -12.0 1.6 -21.5" transform="translate(0,0)"/>
+<path d="M 590.7 443.4 q -14.0 -14.2 4.7 -21.1" transform="translate(0,0)"/>
+<path d="M 599.7 413.4 q -11.8 -16.1 7.7 -20.2" transform="translate(0,0)"/>
+<circle cx="575.1" cy="404.0" r="1.2" class="dot"/>
+<path d="M 613.0 385.1 q -9.4 -17.6 10.6 -18.8" transform="translate(0,0)"/>
+<path d="M 630.3 359.0 q -6.7 -18.8 13.2 -17.1" transform="translate(0,0)"/>
+<path d="M 651.2 335.7 q -3.9 -19.6 15.5 -15.0" transform="translate(0,0)"/>
+<circle cx="632.9" cy="316.6" r="1.2" class="dot"/>
+<path d="M 675.2 315.6 q 18.6 7.4 17.6 -12.6" transform="translate(0,0)"/>
+<path d="M 702.0 299.3 q 1.9 -19.9 19.2 -9.9" transform="translate(0,0)"/>
+<path d="M 730.8 287.1 q 15.6 12.4 20.4 -7.0" transform="translate(0,0)"/>
+<circle cx="739.3" cy="312.1" r="1.2" class="dot"/>
+<path d="M 761.1 279.2 q 7.6 -18.5 21.2 -3.9" transform="translate(0,0)"/>
+<path d="M 792.2 275.7 q 10.2 -17.2 21.6 -0.8" transform="translate(0,0)"/>
+<path d="M 823.4 276.9 q 8.9 17.9 21.5 2.4" transform="translate(0,0)"/>
+<circle cx="820.6" cy="303.1" r="1.2" class="dot"/>
+<path d="M 854.2 282.6 q 14.7 -13.5 20.9 5.5" transform="translate(0,0)"/>
+<path d="M 883.9 292.7 q 16.5 -11.2 19.9 8.4" transform="translate(0,0)"/>
+<path d="M 911.7 307.0 q 18.0 -8.7 18.4 11.3" transform="translate(0,0)"/>
+<circle cx="925.4" cy="284.5" r="1.2" class="dot"/>
+<path d="M 937.1 325.2 q -2.4 19.8 16.6 13.8" transform="translate(0,0)"/>
+<path d="M 959.7 346.9 q 19.7 -3.2 14.4 16.1" transform="translate(0,0)"/>
+<path d="M 978.8 371.7 q -8.1 18.3 11.9 18.0" transform="translate(0,0)"/>
+<circle cx="956.8" cy="386.3" r="1.2" class="dot"/>
+<path d="M 994.1 399.0 q 19.8 2.6 9.2 19.6" transform="translate(0,0)"/>
+<path d="M 1005.3 428.2 q 19.2 5.5 6.2 20.7" transform="translate(0,0)"/>
+<path d="M 1012.1 458.8 q 18.2 8.2 3.1 21.4" transform="translate(0,0)"/>
+<circle cx="1038.2" cy="454.9" r="1.2" class="dot"/>
+<path d="M 800.0 340.0 L 824.1 431.8 L 906.1 383.9 L 858.2 465.9 L 950.0 490.0 L 858.2 514.1 L 906.1 596.1 L 824.1 548.2 L 800.0 640.0 L 775.9 548.2 L 693.9 596.1 L 741.8 514.1 L 650.0 490.0 L 741.8 465.9 L 693.9 383.9 L 775.9 431.8 Z" class="thin"/>
+<circle cx="800.0" cy="490.0" r="21.0" class="thin"/>
+<path d="M 800.0 400.0 L 818.9 457.3 L 877.9 445.0 L 837.8 490.0 L 877.9 535.0 L 818.9 522.7 L 800.0 580.0 L 781.1 522.7 L 722.1 535.0 L 762.2 490.0 L 722.1 445.0 L 781.1 457.3 Z" class="thin"/>
+<circle cx="800.0" cy="490.0" r="12.6" class="thin"/>
+<path d="M 1173.0 490.0 Q 1186.0 490.3 1199.0 490.7 Q 1212.0 491.2 1225.0 491.7 Q 1238.0 492.0 1251.0 492.1 Q 1264.0 491.9 1277.0 491.5 " />
+<path d="M 1199.0 490.7 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="1222.4" cy="485.5" r="1.6" class="dot"/>
+<path d="M 1238.0 492.0 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="1214.6" cy="486.8" r="1.6" class="dot"/>
+<path d="M 1063.8 753.8 Q 1072.8 763.1 1081.6 772.6 Q 1090.4 782.2 1099.3 791.7 Q 1108.3 801.1 1117.4 810.4 Q 1126.7 819.4 1136.2 828.3 " />
+<path d="M 1081.6 772.6 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="1105.0" cy="767.4" r="1.6" class="dot"/>
+<path d="M 1108.3 801.1 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="1084.9" cy="795.9" r="1.6" class="dot"/>
+<path d="M 800.0 863.0 Q 799.7 876.0 799.3 889.0 Q 798.8 902.0 798.3 915.0 Q 798.0 928.0 797.9 941.0 Q 798.1 954.0 798.5 967.0 " />
+<path d="M 799.3 889.0 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="822.7" cy="883.8" r="1.6" class="dot"/>
+<path d="M 798.0 928.0 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="774.6" cy="922.8" r="1.6" class="dot"/>
+<path d="M 536.2 753.8 Q 526.9 762.8 517.4 771.6 Q 507.8 780.4 498.3 789.3 Q 488.9 798.3 479.6 807.4 Q 470.6 816.7 461.7 826.2 " />
+<path d="M 517.4 771.6 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="540.8" cy="766.4" r="1.6" class="dot"/>
+<path d="M 488.9 798.3 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="465.5" cy="793.1" r="1.6" class="dot"/>
+<path d="M 427.0 490.0 Q 414.0 489.7 401.0 489.3 Q 388.0 488.8 375.0 488.3 Q 362.0 488.0 349.0 487.9 Q 336.0 488.1 323.0 488.5 " />
+<path d="M 401.0 489.3 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="424.4" cy="484.1" r="1.6" class="dot"/>
+<path d="M 362.0 488.0 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="338.6" cy="482.8" r="1.6" class="dot"/>
+<path d="M 536.2 226.2 Q 527.2 216.9 518.4 207.4 Q 509.6 197.8 500.7 188.3 Q 491.7 178.9 482.6 169.6 Q 473.3 160.6 463.8 151.7 " />
+<path d="M 518.4 207.4 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="541.8" cy="202.2" r="1.6" class="dot"/>
+<path d="M 491.7 178.9 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="468.3" cy="173.7" r="1.6" class="dot"/>
+<path d="M 800.0 117.0 Q 800.3 104.0 800.7 91.0 Q 801.2 78.0 801.7 65.0 Q 802.0 52.0 802.1 39.0 Q 801.9 26.0 801.5 13.0 " />
+<path d="M 800.7 91.0 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="824.1" cy="85.8" r="1.6" class="dot"/>
+<path d="M 802.0 52.0 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="778.6" cy="46.8" r="1.6" class="dot"/>
+<path d="M 1063.8 226.2 Q 1073.1 217.2 1082.6 208.4 Q 1092.2 199.6 1101.7 190.7 Q 1111.1 181.7 1120.4 172.6 Q 1129.4 163.3 1138.3 153.8 " />
+<path d="M 1082.6 208.4 q 18.2 -15.6 23.4 2.6 q -10.4 7.8 -23.4 -2.6 z" class="leaf"/>
+<circle cx="1106.0" cy="203.2" r="1.6" class="dot"/>
+<path d="M 1111.1 181.7 q -18.2 -15.6 -23.4 2.6 q 10.4 7.8 23.4 -2.6 z" class="leaf"/>
+<circle cx="1087.7" cy="176.5" r="1.6" class="dot"/>
+</svg>
