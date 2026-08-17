@@ -1,0 +1,32 @@
+# meta-agent — Python dependencies (pinne Versionen bei echtem Setup nach)
+# Installation:  pip install -r requirements.txt
+
+# --- Meta / Instagram / Facebook Publishing (offiziell) ---
+facebook-business==20.0.0          # offizielles Meta Business SDK (Graph API)
+requests==2.32.3                   # HTTP-Basis für Graph-API-Calls
+
+# --- Scheduling ---
+APScheduler==3.10.4                # zeitgesteuertes Posten (Europe/Zurich)
+
+# --- Video / Audio ---
+ffmpeg-python==0.2.0               # FFmpeg-Wrapper (FFmpeg muss im System installiert sein)
+faster-whisper==1.0.3              # schnelle Transkription für Captions/Untertitel
+
+# --- Content-/Trend-Research & (nur wo zulässig) Browser-Automation ---
+playwright==1.47.0                 # nur für erlaubte, ToS-konforme Automationen
+
+# --- AI ---
+anthropic==0.39.0                  # Claude API (Hooks, Skripte, Analyse)
+
+# --- Daten / Attribution / Lead-Tracking ---
+SQLAlchemy==2.0.35                 # DB-Layer (SQLite lokal, Postgres in Prod)
+psycopg2-binary==2.9.9             # Postgres-Treiber (Produktion)
+
+# --- Dashboard / API ---
+fastapi==0.115.0                   # Backend/API für Dashboard & Webhooks
+uvicorn==0.31.0                    # ASGI-Server
+streamlit==1.38.0                  # schnelles Analytics-Dashboard (optional)
+
+# --- Config / Utils ---
+python-dotenv==1.0.1               # .env laden
+pydantic==2.9.2                    # Validierung / Settings

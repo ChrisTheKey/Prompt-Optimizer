@@ -1,0 +1,18 @@
+# Secrets — niemals committen
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Daten / DB
+*.db
+*.sqlite3
+
+# Build / Logs
+node_modules/
+*.log
